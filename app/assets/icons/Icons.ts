@@ -1,0 +1,1 @@
+const home=require('../icons/home.png')

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1648876007350" clover="3.2.0">
+  <project timestamp="1648876007350" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="1" methods="2" coveredmethods="2" elements="11" coveredelements="9" complexity="0" loc="6" ncloc="6" packages="2" files="4" classes="4"/>
+    <package name="assets.icons">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="minus.png" path="C:\ProjectWorkSpace\NewDesignProject\app\assets\icons\minus.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="plus.png" path="C:\ProjectWorkSpace\NewDesignProject\app\assets\icons\plus.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="customComponents">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="AddMinusButton.tsx" path="C:\ProjectWorkSpace\NewDesignProject\app\customComponents\AddMinusButton.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="TextIconButton.tsx" path="C:\ProjectWorkSpace\NewDesignProject\app\customComponents\TextIconButton.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
