@@ -1,5 +1,3 @@
-// import { icons, images } from "./constants";
-
 const myProfile = {
     name: "ByProgrammers",
     address: "No. 88, Jln Padungan, Kuching"
