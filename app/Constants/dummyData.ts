@@ -2,7 +2,6 @@
 
 const myProfile = {
     name: "ByProgrammers",
-    // profile_image: images.apple,
     address: "No. 88, Jln Padungan, Kuching"
 }
 
